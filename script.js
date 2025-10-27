@@ -37,4 +37,3 @@ projectBoxes.forEach(box => {
     hoverSign.classList.remove("active");
   });
 });
- return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
